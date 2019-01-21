@@ -1,6 +1,6 @@
 # hello-world
 James here, aka kibs, which is a short for my middle name Kibin, or short for kibbles n' bits.
-I'm just a designer with llama hair trying to learning git.
+I'm just a designer with llama hair trying to learn git.
 I was raised on kimchi & fried chicken.
 Ate cup of noodles to fuel my dreaded taekwondo classes.
 Went to baseball practices to get capri-suns and oreos.
